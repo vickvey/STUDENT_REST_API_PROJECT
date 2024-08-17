@@ -42,7 +42,7 @@ STUDENT_REST_API_PROJECT/
 2. **Create and Activate a Virtual Environment:**
 
     ```bash
-    python -m venv .venv
+    python3 -m venv .venv # On Windows use python3.exe -m venv .venv
     source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
 
 3. **Install Backend Dependencies:**
