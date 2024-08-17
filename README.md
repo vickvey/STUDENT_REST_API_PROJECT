@@ -43,7 +43,7 @@ STUDENT_REST_API_PROJECT/
 
     ```bash
     python3 -m venv .venv # On Windows use python3.exe -m venv .venv
-    source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
+    source .venv/bin/activate  # On Windows Command Prompt: use `.venv\Scripts\activate.bat`
 
 3. **Install Backend Dependencies:**
 
@@ -62,6 +62,7 @@ STUDENT_REST_API_PROJECT/
     python manage.py runserver
 
 #### Frontend Setup
+Open another terminal or command-prompt window and proceed with these instructions.
 
 1. **Navigate to the Frontend Directory:**
 
