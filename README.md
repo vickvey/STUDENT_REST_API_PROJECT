@@ -32,6 +32,11 @@ STUDENT_REST_API_PROJECT/
 
 ### Setup Instructions
 
+- Clone this github repository:
+
+   ```bash   
+   git clone https://github.com/vickvey/STUDENT_REST_API_PROJECT/   
+
 #### Backend Setup
 
 1. **Navigate to the Backend Directory:**
