@@ -1,11 +1,11 @@
-# Basic Student RESTful API
+# STUDENT_REST_API_PROJECT
 
 This project includes a backend API built with Django and a frontend application built with React. The backend provides a RESTful API for managing student records, while the frontend offers a user interface for interacting with this API.
 
 ## Project Structure
 
 ```bash
-basic-student-RESTful-API/
+STUDENT_REST_API_PROJECT/
 ├── LICENSE
 ├── mysite/
 │ ├── api/
